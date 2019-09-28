@@ -14,7 +14,7 @@ onload = onresize = () => {
 	canvas.height = innerHeight
 	canvas.width = innerWidth
 
-	ctx.fillStyle = '#000'
+	ctx.fillStyle = '#8cf'
 	let centerX = innerWidth / 2
 	let centerY = innerHeight / 2
 	let count = 0
